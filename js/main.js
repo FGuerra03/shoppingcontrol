@@ -1,9 +1,4 @@
-var list = [
-    {"desc":"egg","amount":"1","value":"10.0"},
-    {"desc":"cheese","amount":"1","value":"15.50"},
-    {"desc":"meat","amount":"1","value":"15.0"},
 
-];
 
 function getTotal(list){
     var total = 0;
