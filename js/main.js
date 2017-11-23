@@ -1,4 +1,4 @@
-
+var list = [];
 
 function getTotal(list){
     var total = 0;
